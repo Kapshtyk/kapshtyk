@@ -11,6 +11,6 @@ I specialise in Python (Django, Django REST framework), JavaScript (React, Node.
 My diverse background also includes legal counselling and management experience👨‍💼👨‍⚖️
 
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=kapshtak&count_private=true&langs_count=6&hide=jupyter%20notebook&theme=transparent)]() ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapshtak&layout=compact&theme=transparent)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=kapshtyk&count_private=true&langs_count=6&hide=jupyter%20notebook&theme=transparent)]() ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapshtyk&layout=compact&theme=transparent)
 
 ![profile view count](https://komarev.com/ghpvc/?username=ivanpudin&color=grey&style=for-the-badge)
