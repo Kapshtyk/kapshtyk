@@ -6,7 +6,7 @@ My name is Arseniiy, and I believe that the above quote from Lewis Carroll's "Al
 
 I'm a passionate web developer, striving for continuous learning and personal growth, an active and self-motivated team player, constantly striving for improvement. 
 
-I specialise in Python (Django, Django REST framework), JavaScript (React, Node.js) and PHP (Symfony). 
+I specialise in Python (Django, Django REST framework, FastAPI), JavaScript (React, Next.js, Node.js, NestJS) and PHP (Symfony, Drupal 10). 
 
 My diverse background also includes legal counselling and management experience👨‍💼👨‍⚖️
 
