@@ -6,7 +6,7 @@ My name is Arseniiy, and I believe that the above quote from Lewis Carroll's "Al
 
 I'm a hardworking, proactive, and self-motivated developer with over 2 years of programming experience. I value continuous learning, challenging myself and looking for opportunities to grow.
 
-I specialise in Python (Django, Django REST framework, FastAPI), JavaScript/TypeScript (React, Next.js, Node.js, NestJS) and PHP (Symfony, Drupal 10). 
+I specialise in Python (Django, Django REST framework, FastAPI, Aiogram), JavaScript/TypeScript (React, Next.js, Node.js, NestJS), C# (ASP.NET Core) and PHP (Symfony, Drupal 10). 
 
 My diverse background also includes legal counselling and management experience👨‍💼👨‍⚖️
 
